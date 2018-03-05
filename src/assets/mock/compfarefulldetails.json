@@ -1,0 +1,85 @@
+{
+	"depDate": "24/1/2018",
+	"origin" : "London",
+	"destination": "Paris",
+	"Fares": [
+				{
+					"compName": "British Airways",
+					"data":  [
+								{
+									"depTime": "09:00",
+									"price" : "200"
+								
+								},
+								{
+									"depTime": "10:00",
+									"price" : "150"
+								
+								},
+								{
+									"depTime": "5:00",
+									"price" : "100"
+								
+								},
+								{
+									"depTime": "1:00",
+									"price" : "50"
+								
+								}
+					
+							]				
+				},
+				{
+					"compName": "Easy Jet",
+					"data":  [
+								{
+									"depTime": "09:00",
+									"price" : "200"
+								
+								},
+								{
+									"depTime": "10:00",
+									"price" : "150"
+								
+								},
+								{
+									"depTime": "5:00",
+									"price" : "100"
+								
+								},
+								{
+									"depTime": "1:00",
+									"price" : "50"
+								
+								}
+					
+							]				
+				},{
+					"compName": "Iberia",
+					"data":  [
+								{
+									"depTime": "09:00",
+									"price" : "200"
+								
+								},
+								{
+									"depTime": "10:00",
+									"price" : "150"
+								
+								},
+								{
+									"depTime": "5:00",
+									"price" : "100"
+								
+								},
+								{
+									"depTime": "1:00",
+									"price" : "50"
+								
+								}
+					
+							]				
+				}
+	
+	]
+}

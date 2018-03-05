@@ -1,0 +1,45 @@
+ /* .toolbar {
+
+  top: 0px;
+  position: fixed;
+  width: 99%;
+
+}  */
+.fill-space {
+  
+  flex: 1 1 auto;
+}
+
+.example-menu {
+    padding-left: 20px;
+}
+
+.data-card {
+  width:20%;
+  height:350px;
+  margin: 10px;
+  float: left;
+}
+
+.example-card {
+    width: 80%;
+    height: 60%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    float: left;
+  }
+  
+  .detail-card {
+
+    width: 50%;
+    height: 300px;
+    margin: 10px;
+    float: left;
+
+  }
+
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }

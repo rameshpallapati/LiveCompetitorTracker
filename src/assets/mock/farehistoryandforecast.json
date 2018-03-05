@@ -1,0 +1,165 @@
+{
+	"depDate": "24/1/2018",
+	"origin" : "London",
+	"destination": "Paris",
+	"History": [
+				{
+					"compName": "British Airways",
+					"data":  [
+								{
+									"daysLeft": "15",
+									"price" : "200"
+								
+								},
+								{
+									"daysLeft": "10",
+									"price" : "150"
+								
+								},
+								{
+									"daysLeft": "5",
+									"price" : "100"
+								
+								},
+								{
+									"daysLeft": "1",
+									"price" : "50"
+								
+								}
+					
+							]				
+				},
+				{
+					"compName": "Easy Jet",
+					"data":  [
+								{
+									"daysLeft": "15",
+									"price" : "200"
+								
+								},
+								{
+									"daysLeft": "10",
+									"price" : "150"
+								
+								},
+								{
+									"daysLeft": "5",
+									"price" : "100"
+								
+								},
+								{
+									"daysLeft": "1",
+									"price" : "50"
+								
+								}
+					
+							]				
+				},{
+					"compName": "Iberia",
+					"data":  [
+								{
+									"daysLeft": "15",
+									"price" : "200"
+								
+								},
+								{
+									"daysLeft": "10",
+									"price" : "150"
+								
+								},
+								{
+									"daysLeft": "5",
+									"price" : "100"
+								
+								},
+								{
+									"daysLeft": "1",
+									"price" : "50"
+								
+								}
+					
+							]				
+				}
+	
+	],
+	"Forecast": [
+				{
+					"compName": "British Airways",
+					"data":  [
+								{
+									"daysLeft": "15",
+									"price" : "200"
+								
+								},
+								{
+									"daysLeft": "10",
+									"price" : "150"
+								
+								},
+								{
+									"daysLeft": "5",
+									"price" : "100"
+								
+								},
+								{
+									"daysLeft": "1",
+									"price" : "50"
+								
+								}
+					
+							]				
+				},
+				{
+					"compName": "Easy Jet",
+					"data":  [
+								{
+									"daysLeft": "15",
+									"price" : "200"
+								
+								},
+								{
+									"daysLeft": "10",
+									"price" : "150"
+								
+								},
+								{
+									"daysLeft": "5",
+									"price" : "100"
+								
+								},
+								{
+									"daysLeft": "1",
+									"price" : "50"
+								
+								}
+					
+							]				
+				},{
+					"compName": "Iberia",
+					"data":  [
+								{
+									"daysLeft": "15",
+									"price" : "200"
+								
+								},
+								{
+									"daysLeft": "10",
+									"price" : "150"
+								
+								},
+								{
+									"daysLeft": "5",
+									"price" : "100"
+								
+								},
+								{
+									"daysLeft": "1",
+									"price" : "50"
+								
+								}
+					
+							]				
+				}
+	
+	]
+}
